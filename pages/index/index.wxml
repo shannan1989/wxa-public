@@ -1,0 +1,3 @@
+<form bindsubmit='onFormSubmit' report-submit>
+    <button form-type='submit'>点击这里</button>
+</form>

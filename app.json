@@ -1,0 +1,29 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "window": {
+        "navigationStyle": "default",
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTextStyle": "white",
+        "navigationBarTitleText": "微信小程序",
+        "backgroundColor": "#fff",
+        "backgroundColorTop": "red",
+        "backgroundColorBottom": "green",
+        "backgroundTextStyle": "light",
+        "enablePullDownRefresh": false,
+        "onReachBottomDistance": 50
+    },
+    "subpackages": [],
+    "requiredBackgroundModes": [
+        "audio"
+    ],
+    "plugins": {},
+    "navigateToMiniProgramAppIdList": [],
+    "networkTimeout": {
+        "request": 10000,
+        "downloadFile": 10000
+    },
+    "resizable": true,
+    "debug": false
+}
