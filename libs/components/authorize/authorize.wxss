@@ -1,0 +1,38 @@
+.authorize {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1001;
+    background-color: #fff;
+}
+
+.authorize_tips {
+    margin-top: 300rpx;
+    text-align: center;
+}
+
+.authorize_tip1 {
+    color: #292621;
+    font-size: 32rpx;
+    line-height: 60rpx;
+}
+
+.authorize_tip2 {
+    color: #b0a99e;
+    font-size: 28rpx;
+    line-height: 50rpx;
+}
+
+.authorize_button {
+    margin: 100rpx auto 50rpx;
+    width: 600rpx;
+    line-height: 90rpx;
+    border-radius: 46rpx;
+    background-color: #ff6262;
+    text-align: center;
+    color: #fff;
+    font-size: 36rpx;
+    padding: 0;
+}

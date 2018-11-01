@@ -1,0 +1,9 @@
+<view class='authorize' catchtouchmove='onTouchMove' hidden='{{hidden}}'>
+    <view>
+        <view class='authorize_tips'>
+            <text class='authorize_tip1'>根据微信小程序要求\n您需要授权，才能正常使用小程序！</text>
+            <view class='authorize_tip2'>仅获得您的公开信息（头像、昵称等）</view>
+        </view>
+        <button class='authorize_button' open-type="getUserInfo" bindgetuserinfo="onGetUserInfo" bindtap='onTapButton'>立即授权</button>
+    </view>
+</view>
