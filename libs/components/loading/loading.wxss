@@ -16,7 +16,7 @@
     width: 160rpx;
     height: 160rpx;
     line-height: 160rpx;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 .loading_button::after {
