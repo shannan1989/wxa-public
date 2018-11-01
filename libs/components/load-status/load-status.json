@@ -1,0 +1,8 @@
+{
+    "component": true,
+    "usingComponents": {
+        "refresh": "../refresh/refresh",
+        "loading": "../loading/loading",
+        "authorize": "../authorize/authorize"
+    }
+}

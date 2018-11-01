@@ -1,0 +1,3 @@
+<refresh wx:if="{{status == 'fail'}}" bindRefresh="onRefresh"></refresh>
+<loading id="loading"></loading>
+<authorize wx:if="{{status == 'auth' || authing}}" bindAuthOK="onAuthOK"></authorize>
