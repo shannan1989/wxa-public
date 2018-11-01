@@ -1,0 +1,4 @@
+<view class='refresh' catchtouchmove='none'>
+    <view class='refresh_text'>貌似网络不太好，稍等一下再刷新吧~~</view>
+    <view class='refresh_button' bindtap='onTapRefresh'>刷新</view>
+</view>
