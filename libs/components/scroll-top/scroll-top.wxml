@@ -1,0 +1,3 @@
+<view class="scroll_top" animation="{{scrollAnimation}}" bindtap="onTapScrollTop">
+    <image src='scroll-top.png' mode='widthFix'></image>
+</view>

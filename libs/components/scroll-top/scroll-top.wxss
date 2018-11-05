@@ -1,0 +1,17 @@
+.scroll_top {
+    position: fixed;
+    right: 30rpx;
+    bottom: 0;
+    width: 100rpx;
+    height: 100rpx;
+    border-radius: 100%;
+    background-color: #fff;
+    border: 2rpx solid #8a8a8a;
+    opacity: 0;
+}
+
+.scroll_top image {
+    width: 80rpx;
+    height: 80rpx;
+    margin: 10rpx;
+}
