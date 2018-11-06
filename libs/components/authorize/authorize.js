@@ -14,7 +14,7 @@ Component({
         onGetUserInfo: function (e) {
             if (e.detail.userInfo) {
                 this.triggerEvent('AuthOK', {}, {});
-                client.fullLogin({}, e.detail);
+                client.fullAuth({}, e.detail);
             } else {
                 this.setData({ hidden: false });
             }
