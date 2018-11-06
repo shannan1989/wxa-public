@@ -6,5 +6,9 @@
     "backgroundTextStyle": "light",
     "enablePullDownRefresh": false,
     "onReachBottomDistance": 50,
-    "disableScroll": false
+    "disableScroll": false,
+    "usingComponents": {
+        "scroll-top": "/libs/components/scroll-top/scroll-top",
+        "load-status": "/libs/components/load-status/load-status"
+    }
 }

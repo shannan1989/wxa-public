@@ -1,3 +1,6 @@
 <form bindsubmit='onFormSubmit' report-submit>
-    <button form-type='submit'>点击这里</button>
+    <button form-type='submit' bindtap='onTapButton'>点击这里</button>
 </form>
+
+<scroll-top id="scroll-top"></scroll-top>
+<load-status status="{{loadStatus}}" bindRefresh="onRefresh"></load-status>
