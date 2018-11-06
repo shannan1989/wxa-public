@@ -10,6 +10,11 @@ Component({
         zIndex: 1000,
         hidden: true
     },
+    detached: function () {
+        if (this._timer) {
+            clearTimeout(this._timer);
+        }
+    },
     methods: {
         show: function () {
             //let e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {};
