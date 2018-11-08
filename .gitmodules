@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/shannan1989/wxa-library.git

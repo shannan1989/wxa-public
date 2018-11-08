@@ -8,7 +8,7 @@
     "onReachBottomDistance": 50,
     "disableScroll": false,
     "usingComponents": {
-        "scroll-top": "/libs/components/scroll-top/scroll-top",
-        "load-status": "/libs/components/load-status/load-status"
+        "scroll-top": "/lib/components/scroll-top/scroll-top",
+        "load-status": "/lib/components/load-status/load-status"
     }
 }

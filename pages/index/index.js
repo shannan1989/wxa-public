@@ -1,5 +1,5 @@
-import client from '../../libs/client/client.js';
-import WxPage from '../../libs/client/wxPage.js';
+import client from '../../lib/client/client.js';
+import WxPage from '../../lib/client/wxPage.js';
 
 WxPage({
     wxPage: {
