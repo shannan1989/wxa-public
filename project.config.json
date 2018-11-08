@@ -9,6 +9,7 @@
 		"postcss": true,
 		"minified": true,
 		"newFeature": true,
+		"nodeModules": false,
 		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
@@ -25,6 +26,10 @@
 			"list": []
 		},
 		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
 			"current": -1,
 			"list": []
 		},
