@@ -1,3 +1,8 @@
 page {
     height: 10000rpx;
 }
+
+button {
+    width: 40%;
+    margin: 50rpx auto;
+}

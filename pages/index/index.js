@@ -19,7 +19,7 @@ WxPage({
         this.pageRequest({
             isUpdate: isUpdate,
             auth: {
-                type: 'full',
+                type: 'base',
                 success: (res) => {
                     console.log('auth success', res);
                 },
@@ -38,8 +38,5 @@ WxPage({
                 }
             }
         });
-    },
-    onTapButton: function () {
-
     }
 });
