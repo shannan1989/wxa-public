@@ -1,4 +1,5 @@
+import WxApp from 'lib/client/wxApp.js';
 
-App({
+WxApp({
     onLaunch: function () { }
 });
