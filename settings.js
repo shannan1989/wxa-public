@@ -4,7 +4,12 @@ let settings = {
     debugRequestUrl: 'http://localhost/service/demo/a.php',
     app: 'demo',
     appName: '微信小程序',
-    appVersion: '1.0.0'
+    appVersion: '1.0.0',
+    ald: {
+        enable: false,
+        appKey: '',
+        getLocation: true
+    }
 };
 
 export default settings;
