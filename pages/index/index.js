@@ -4,7 +4,8 @@ import WxPage from '../../lib/client/wxPage.js';
 WxPage({
     wxPage: {
         enableFormSubmit: true,
-        enablePageRequest: true
+        enablePageRequest: true,
+        enableNextPage: true
     },
     data: {
         loadStatus: 'loading'
