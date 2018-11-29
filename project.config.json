@@ -10,10 +10,11 @@
 		"minified": true,
 		"newFeature": true,
 		"nodeModules": false,
+		"autoAudits": true,
 		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.4.0",
+	"libVersion": "2.4.1",
 	"appid": "wxa4bedbf187300e0e",
 	"projectname": "wxa-public",
 	"debugOptions": {
