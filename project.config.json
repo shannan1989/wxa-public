@@ -14,7 +14,7 @@
 		"uglifyFileName": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.4.1",
+	"libVersion": "2.4.3",
 	"appid": "wxa4bedbf187300e0e",
 	"projectname": "wxa-public",
 	"debugOptions": {
