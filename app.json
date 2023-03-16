@@ -19,7 +19,9 @@
         "audio"
     ],
     "plugins": {},
-    "navigateToMiniProgramAppIdList": [],
+    "useExtendedLib": {
+        "weui": true
+    },
     "networkTimeout": {
         "request": 10000,
         "downloadFile": 10000
